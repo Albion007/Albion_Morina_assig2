@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Albion_Morina_assig2/static/css/main.0e61c6e0.chunk.css",
+    "main.js": "/Albion_Morina_assig2/static/js/main.3b21d182.chunk.js",
+    "main.js.map": "/Albion_Morina_assig2/static/js/main.3b21d182.chunk.js.map",
+    "runtime-main.js": "/Albion_Morina_assig2/static/js/runtime-main.6ec75a40.js",
+    "runtime-main.js.map": "/Albion_Morina_assig2/static/js/runtime-main.6ec75a40.js.map",
+    "static/css/2.da1eef19.chunk.css": "/Albion_Morina_assig2/static/css/2.da1eef19.chunk.css",
+    "static/js/2.e8ec1ed1.chunk.js": "/Albion_Morina_assig2/static/js/2.e8ec1ed1.chunk.js",
+    "static/js/2.e8ec1ed1.chunk.js.map": "/Albion_Morina_assig2/static/js/2.e8ec1ed1.chunk.js.map",
+    "static/js/3.b80dea19.chunk.js": "/Albion_Morina_assig2/static/js/3.b80dea19.chunk.js",
+    "static/js/3.b80dea19.chunk.js.map": "/Albion_Morina_assig2/static/js/3.b80dea19.chunk.js.map",
+    "index.html": "/Albion_Morina_assig2/index.html",
+    "static/css/2.da1eef19.chunk.css.map": "/Albion_Morina_assig2/static/css/2.da1eef19.chunk.css.map",
+    "static/css/main.0e61c6e0.chunk.css.map": "/Albion_Morina_assig2/static/css/main.0e61c6e0.chunk.css.map",
+    "static/js/2.e8ec1ed1.chunk.js.LICENSE.txt": "/Albion_Morina_assig2/static/js/2.e8ec1ed1.chunk.js.LICENSE.txt",
+    "static/media/weather.css": "/Albion_Morina_assig2/static/media/weatherbg.30832841.jpg",
+    "static/media/wiki.ac53269d.png": "/Albion_Morina_assig2/static/media/wiki.ac53269d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ec75a40.js",
+    "static/css/2.da1eef19.chunk.css",
+    "static/js/2.e8ec1ed1.chunk.js",
+    "static/css/main.0e61c6e0.chunk.css",
+    "static/js/main.3b21d182.chunk.js"
+  ]
+}
